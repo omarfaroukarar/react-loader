@@ -1,0 +1,37 @@
+#img{
+    width: 300px;
+  /*   margin-left: 200px;
+    margin-top: 50px;
+    height: 200px; */
+    /* margin-left: auto;  !! pour centarliser image 
+    margin-right: auto;
+    display: block; */
+}
+p{
+    text-align: center;  /* centraliser text */
+}
+.button{
+    margin-left: 100px;
+}
+.bb{background-color :blueviolet;
+    margin-left: 100px;
+}
+.div{
+    width: 150px;
+    margin-left: 100PX;
+}
+
+.flex{
+    display: flex;
+    margin-right: 90px;
+    margin-left: 40px;
+
+}
+.CC{
+    width: 100px;
+    margin-left: 100px;
+}
+.ww{
+    width:300px;
+    margin-left: 300px;
+}
